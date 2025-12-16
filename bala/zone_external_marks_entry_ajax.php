@@ -1,4 +1,7 @@
 <?php
+
+// Modification done in github server.
+
 error_reporting(E_ALL);
 include("includes/session_include.php");
 include("includes/enc_conn_include.php");
